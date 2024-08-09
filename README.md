@@ -1,2 +1,2 @@
-# Beginner_Pyhton_Projects
+# Beginner_Python_Projects
  
